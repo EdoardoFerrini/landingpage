@@ -1,9 +1,9 @@
 ---
-name: Web Reaper
+name: Edoardo Ferrini
 theme: dark
 blur: blur
-avatar: ./avatar.jpg
+avatar: ./avatar.png
 background: ./background.jpg
 ---
 
-Web designer / developer | Crafting professional website templates at cosmicthemes.com - Made with Astro and Tailwind CSS
+Software developer / photographer | Crafting professional website templates using .NET and React
